@@ -1,5 +1,7 @@
 # README
 
+Initial setup based on: https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
