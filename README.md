@@ -2,6 +2,9 @@
 
 Initial setup based on: https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
 
+Use Minio as the local object store (make sure files are saved into a specific directory under Dropbox)
+https://docs.minio.io/docs/minio-client-complete-guide
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
