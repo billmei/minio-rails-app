@@ -1,4 +1,8 @@
-# README
+# Junkyard
+
+A random collection of things I've saved for archive.
+
+One man's trash is another man's treasure.
 
 Initial setup based on: https://semaphoreci.com/community/tutorials/dockerizing-a-ruby-on-rails-application
 
