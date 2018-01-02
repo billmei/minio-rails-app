@@ -21,4 +21,6 @@
 .byebug_history
 
 # Secret files
-.junkyard.env
+.env
+local_setup_instructions.md
+
